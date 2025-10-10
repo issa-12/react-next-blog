@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.20",
     "axios": "^1.7.4",
     "dotenv": "^16.4.5",
     "mongoose": "^8.8.3",
